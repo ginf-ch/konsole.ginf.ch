@@ -1,2 +1,7 @@
-# konsole.ginf.ch
-Konsolen-Programmierung mit Python
+# Grundlagenfach Informatik
+
+## Imperatives Programmieren
+
+### Konsolen-Programmierung mit Python
+
+Website mit Unterrichtsmaterialien
